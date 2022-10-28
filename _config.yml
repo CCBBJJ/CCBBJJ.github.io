@@ -1,11 +1,10 @@
 ### Site Settings ###
 title               : CCBBJJ.log
 description         : >-
-                      어서오세요 :hand: 피곤합니다만,
-                      오신김에 보고가세요.
+                      어서오세요 :hand: 항상 피곤합니다만,
+                      오신 김에 보고가세요.
                       그런 곳 입니다.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : CCBBJJ    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
